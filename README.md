@@ -1,4 +1,4 @@
-gush-stash-adapter
+Stash PHP Api
 ==================
 
-Gush adapter for Stash
+PHP Api for [Stash](https://atlassian.com/software/stash)
